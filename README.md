@@ -1,5 +1,5 @@
 # Calender
-Calender application using c
+Calender application using c.
 This is a simple calender application using C language.
 It has three features:
 1.prints the day of any date
